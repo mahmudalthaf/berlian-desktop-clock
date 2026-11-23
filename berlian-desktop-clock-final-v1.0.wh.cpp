@@ -1,9 +1,9 @@
 // ==WindhawkMod==
-// @id berlian-desktop-clock
-// @name Berlian Desktop Clock
-// @description Minimal transparent desktop clock with Indonesian date, built for Windows 11
-// @version 1.0.0
-// @author Berlian Komputer
+// @id              berlian-desktop-clock
+// @name            Berlian Desktop Clock
+// @version         1.0
+// @author          Muhammad Althaf Mahmudin
+// @github          mahmudalthaf
 // @include explorer.exe
 // @architecture x86-64
 // @compilerOptions -lgdi32 -luser32
