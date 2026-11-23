@@ -4,6 +4,7 @@
 // @version         1.0
 // @author          Muhammad Althaf Mahmudin
 // @github          mahmudalthaf
+// @description     Lightweight transparent desktop clock for Windows 11
 // @include explorer.exe
 // @architecture x86-64
 // @compilerOptions -lgdi32 -luser32
